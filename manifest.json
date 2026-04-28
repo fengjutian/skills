@@ -1,6 +1,74 @@
 {
   "skills": [
     {
+      "name": "frontend-dev",
+      "type": "frontend"
+    },
+    {
+      "name": "fullstack-dev",
+      "type": "fullstack"
+    },
+    {
+      "name": "android-native-dev",
+      "type": "mobile"
+    },
+    {
+      "name": "ios-application-dev",
+      "type": "mobile"
+    },
+    {
+      "name": "flutter-dev",
+      "type": "mobile"
+    },
+    {
+      "name": "react-native-dev",
+      "type": "mobile"
+    },
+    {
+      "name": "shader-dev",
+      "type": "graphics"
+    },
+    {
+      "name": "gif-sticker-maker",
+      "type": "media"
+    },
+    {
+      "name": "minimax-pdf",
+      "type": "document"
+    },
+    {
+      "name": "pptx-generator",
+      "type": "document"
+    },
+    {
+      "name": "minimax-xlsx",
+      "type": "document"
+    },
+    {
+      "name": "minimax-docx",
+      "type": "document"
+    },
+    {
+      "name": "vision-analysis",
+      "type": "ai"
+    },
+    {
+      "name": "minimax-multimodal-toolkit",
+      "type": "media"
+    },
+    {
+      "name": "minimax-music-gen",
+      "type": "media"
+    },
+    {
+      "name": "buddy-sings",
+      "type": "media"
+    },
+    {
+      "name": "minimax-music-playlist",
+      "type": "media"
+    },
+    {
       "name": "code-reviewer",
       "type": "analysis",
       "stage": 1
