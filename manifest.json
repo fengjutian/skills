@@ -1,0 +1,21 @@
+{
+  "skills": [
+    {
+      "name": "code-reviewer",
+      "type": "analysis",
+      "stage": 1
+    },
+    {
+      "name": "system-business-deep-dive",
+      "type": "analysis",
+      "stage": 2,
+      "depends_on": ["code-reviewer"]
+    },
+    {
+      "name": "system-refactor-designer",
+      "type": "design",
+      "stage": 3,
+      "depends_on": ["system-business-deep-dive"]
+    }
+  ]
+}
