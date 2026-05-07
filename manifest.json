@@ -69,6 +69,54 @@
       "type": "media"
     },
     {
+      "name": "taste-skill",
+      "type": "design"
+    },
+    {
+      "name": "gpt-taste",
+      "type": "design"
+    },
+    {
+      "name": "image-to-code-skill",
+      "type": "frontend"
+    },
+    {
+      "name": "imagegen-frontend-web",
+      "type": "media"
+    },
+    {
+      "name": "imagegen-frontend-mobile",
+      "type": "media"
+    },
+    {
+      "name": "brandkit",
+      "type": "media"
+    },
+    {
+      "name": "redesign-skill",
+      "type": "design"
+    },
+    {
+      "name": "soft-skill",
+      "type": "design"
+    },
+    {
+      "name": "output-skill",
+      "type": "utility"
+    },
+    {
+      "name": "minimalist-skill",
+      "type": "design"
+    },
+    {
+      "name": "brutalist-skill",
+      "type": "design"
+    },
+    {
+      "name": "stitch-skill",
+      "type": "design"
+    },
+    {
       "name": "code-reviewer",
       "type": "analysis",
       "stage": 1
