@@ -64,57 +64,69 @@
       "name": "buddy-sings",
       "type": "media"
     },
-    {
+        {
       "name": "minimax-music-playlist",
       "type": "media"
     },
     {
       "name": "taste-skill",
-      "type": "design"
+      "type": "design",
+      "description": "The main design skill for premium frontend code. Covers layout, typography, colors, spacing, and motion."
     },
     {
       "name": "gpt-taste",
-      "type": "design"
+      "type": "design",
+      "description": "Elite Awwwards-level frontend design and GSAP motion skill for premium, deterministic, anti-slop UI generation."
     },
     {
       "name": "image-to-code-skill",
-      "type": "frontend"
+      "type": "frontend",
+      "description": "Image-first frontend skill for generating premium website references, deeply analyzing them, and implementing code to match."
     },
     {
       "name": "imagegen-frontend-web",
-      "type": "media"
+      "type": "media",
+      "description": "Image-generation-only skill for creating premium website design reference images. Does not write code."
     },
     {
       "name": "imagegen-frontend-mobile",
-      "type": "media"
+      "type": "media",
+      "description": "Image-generation-only skill for creating premium mobile app screen concepts and flows. Does not write code."
     },
     {
       "name": "brandkit",
-      "type": "media"
+      "type": "media",
+      "description": "Image-generation-only skill for creating premium brand-kit overview images with logo concepts, identity systems, color palettes, typography, and mockups. Does not write code."
     },
     {
       "name": "redesign-skill",
-      "type": "design"
+      "type": "design",
+      "description": "For upgrading existing projects by auditing and fixing design problems."
     },
     {
       "name": "soft-skill",
-      "type": "design"
+      "type": "design",
+      "description": "Focuses on an expensive, soft UI look with premium fonts, whitespace, depth, and smooth animations."
     },
     {
       "name": "output-skill",
-      "type": "utility"
+      "type": "utility",
+      "description": "Prevents AI from being lazy, skipping code blocks, or using placeholder comments."
     },
     {
       "name": "minimalist-skill",
-      "type": "design"
+      "type": "design",
+      "description": "Enforces clean, editorial-style interfaces (Notion/Linear style) with strict monochrome palettes."
     },
     {
       "name": "brutalist-skill",
-      "type": "design"
+      "type": "design",
+      "description": "Raw mechanical interfaces, Swiss typography, extreme scale contrast. (Beta)"
     },
     {
       "name": "stitch-skill",
-      "type": "design"
+      "type": "design",
+      "description": "Google Stitch-compatible semantic design rules for premium AI UI generation."
     },
     {
       "name": "code-reviewer",

@@ -27,4 +27,17 @@
 | shader-dev　　　　　　　　 | 全面的 GLSL 着色器技术，用于创建惊艳的视觉效果 — 光线行进、SDF 建模、流体模拟、粒子系统、程序化生成、光照、后处理等。兼容 ShaderToy。　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 | Official　|
 | system-business-deep-dive　| 从代码、接口与数据库还原完整业务系统，梳理业务流程与数据流，输出 Mermaid 流程图。依赖 code-reviewer。　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 | Local　　 |
 | system-refactor-designer　 | 基于现有系统输出可执行重构方案，涵盖架构重设计、数据库优化、分阶段落地路径。依赖 system-business-deep-dive。　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　| Local　　 |
-| vision-analysis　　　　　　| 使用视觉 AI 模型分析、描述和提取图像信息。支持描述、OCR 文字识别、UI 界面审查、图表数据提取和物体检测。基于 MiniMax VL API，OpenAI GPT-4V 作为备选。　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　| Community |
+
+"| vision-analysis　　　　　　| 使用视觉 AI 模型分析、描述和提取图像信息。支持描述、OCR 文字识别、UI 界面审查、图表数据提取和物体检测。基于 MiniMax VL API，OpenAI GPT-4V 作为备选。　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 | Community |
+| taste-skill　　　　　　　　 | The main design skill for premium frontend code. Covers layout, typography, colors, spacing, and motion.　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 | Community |
+| gpt-taste　　　　　　　　　 | Elite Awwwards-level frontend design and GSAP motion skill for premium, deterministic, anti-slop UI generation.　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 | Community |
+| image-to-code-skill　　　　 | Image-first frontend skill for generating premium website references, deeply analyzing them, and implementing code to match.　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 | Community |
+| imagegen-frontend-web　　　 | Image-generation-only skill for creating premium website design reference images. Does not write code.　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 | Community |
+| imagegen-frontend-mobile　　| Image-generation-only skill for creating premium mobile app screen concepts and flows. Does not write code.　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 | Community |
+| brandkit　　　　　　　　　　 | Image-generation-only skill for creating premium brand-kit overview images with logo concepts, identity systems, color palettes, typography, and mockups. Does not write code.　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 | Community |
+| redesign-skill　　　　　　　 | For upgrading existing projects by auditing and fixing design problems.　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 | Community |
+| soft-skill　　　　　　　　　 | Focuses on an expensive, soft UI look with premium fonts, whitespace, depth, and smooth animations.　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 | Community |
+| output-skill　　　　　　　　 | Prevents AI from being lazy, skipping code blocks, or using placeholder comments.　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 | Community |
+| minimalist-skill　　　　　　 | Enforces clean, editorial-style interfaces (Notion/Linear style) with strict monochrome palettes.　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 | Community |
+| brutalist-skill　　　　　　　| Raw mechanical interfaces, Swiss typography, extreme scale contrast. (Beta)　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 | Community |
+| stitch-skill　　　　　　　　 | Google Stitch-compatible semantic design rules for premium AI UI generation.　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 | Community |\n\n**详细说明** → [SKILLS_DESCRIPTION.md](SKILLS_DESCRIPTION.md)"
